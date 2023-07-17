@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+![WhatsApp Image 2023-07-17 at 6 36 26 PM](https://github.com/fazlerabbe/fitness_app-with-api-/assets/58098907/3b91fdc5-affc-4102-bc57-e09a7cf0e18c)
+
 
 This project is a starting point for a Flutter application.
 
